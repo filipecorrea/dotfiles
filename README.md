@@ -1,2 +1,3 @@
-# dotfiles
-My dotfiles
+# Filipe's dotfiles.
+
+This repo contains my personal dotfiles.
